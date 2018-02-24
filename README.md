@@ -2,8 +2,8 @@
 Language Models
 
 Using Brown and Gutenburg corpus from nltk.
-For simple bi-gram backoff:
-      Train Data = 90% of total corpus
+For simple bi-gram backoff:<br />
+      Train Data = 90% of total corpus <br />
       Test Data = 10% of total corpus
 
 For katz's backoff bi_gram model:
