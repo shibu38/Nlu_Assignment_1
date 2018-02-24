@@ -1,5 +1,5 @@
 # Nlu_Assignment_1
-Language Models
+## Language Models
 
 Using Brown and Gutenburg corpus from nltk.
 For simple bi-gram backoff:<br />
@@ -18,5 +18,5 @@ For katz's backoff bi_gram model:<br />
 |Train1+Train2 and testing on Test1|307.8040|26|
 |Train1+Train2 and testing on Test2|135.1297|24|
 
-Time taken by simple backoff model : 43.01 sec
+Time taken by simple backoff model : 43.01 sec<br />
 Time taken by katz's backoff model(includes hyperparameter tuning) : 465 sec 
