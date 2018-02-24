@@ -6,9 +6,9 @@ For simple bi-gram backoff:<br />
       Train Data = 90% of total corpus <br />
       Test Data = 10% of total corpus
 
-For katz's backoff bi_gram model:
-      Train Data = 80% of total corpus
-      Development Data = 10% of total corpus
+For katz's backoff bi_gram model:<br />
+      Train Data = 80% of total corpus<br />
+      Development Data = 10% of total corpus<br />
       Test Data = 10% of total corpus
 
 |Test Data|Perpexilityuisng simple back-off back-off model|Perpexility using katz's backoff bi-gram model|
