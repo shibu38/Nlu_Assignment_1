@@ -32,5 +32,9 @@ Examples of some token of length 10 generated :<br />
       6) soviet embassy is popularly regarded as an administrator willingly or<br />
       <br />
 Total time taken 29.42 sec
-
+## Runing Files
+For generate_token.sh run command <br \>
+'''
+bash generate_toekn.sh
+'''
 
