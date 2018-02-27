@@ -6,7 +6,7 @@ bash generate_token.sh
 ```
 For rest of files run command <br />
 ```
-python <filename>.py
+python3 <filename>.py
 ```
 No need to run token_gen_lang_model.py as that is run by generate_token.sh
 
