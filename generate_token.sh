@@ -1,1 +1,1 @@
-python3 token_gen_lan_model.py
+python3 token_gen_lang_model.py
