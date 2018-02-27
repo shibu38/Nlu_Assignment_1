@@ -29,7 +29,7 @@ Examples of some token of length 10 generated :<br />
       3) still done with expecting any course must have heard your<br />
       4) came wise men out of the red hair and sir<br />
       5) paumanok where they had no thoughts of his frankness and<br />
-      6)soviet embassy is popularly regarded as an administrator willingly or<br />
+      6) soviet embassy is popularly regarded as an administrator willingly or<br />
       <br />
 Total time taken 29.42 sec
 
