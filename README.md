@@ -22,7 +22,7 @@ Time taken by simple backoff model : 43.01 sec<br />
 Time taken by katz's backoff model(includes hyperparameter tuning) : 646.69 sec 
 <br />
 <br />
-## Part B:Token Generation <br />
+## Part B:Token Generation(random ten tokens) <br />
 Examples of some token of length 10 generated :<br />
       1) straight or to witness the hysterical agitations of his very<br />
       2) shall furnish to the millionaire ireton todd is entertaining in<br />
