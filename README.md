@@ -1,4 +1,16 @@
 # Nlu_Assignment_1
+## Runing Files
+For generate_token.sh run command <br />
+```
+bash generate_token.sh
+```
+For rest of files run command <br />
+```
+python <filename>.py
+```
+No need to run token_gen_lang_model.py as that is run by generate_token.sh
+
+
 ## Part A:Language Models
 
 Using Brown and Gutenburg corpus from nltk.
@@ -32,13 +44,3 @@ Examples of some token of length 10 generated :<br />
       6) soviet embassy is popularly regarded as an administrator willingly or<br />
       <br />
 Total time taken 29.42 sec
-## Runing Files
-For generate_token.sh run command <br />
-```
-bash generate_token.sh
-```
-For rest of files run command <br />
-```
-python <filename>.py
-```
-No need to run token_gen_lang_model.py as that is run by generate_token.sh
