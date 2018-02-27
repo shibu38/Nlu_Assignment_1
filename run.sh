@@ -1,1 +1,0 @@
-python3 token_gen_lan_model.py
