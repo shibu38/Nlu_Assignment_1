@@ -1,5 +1,5 @@
 # Nlu_Assignment_1
-## Language Models
+## Part A:Language Models
 
 Using Brown and Gutenburg corpus from nltk.
 For simple bi-gram backoff:<br />
@@ -20,3 +20,16 @@ For katz's backoff bi_gram model:<br />
 
 Time taken by simple backoff model : 43.01 sec<br />
 Time taken by katz's backoff model(includes hyperparameter tuning) : 646.69 sec 
+<br />
+<br />
+## Part B:Token Generation <br />
+Examples of some token of length 10 generated :<br />
+straight or to witness the hysterical agitations of his very<br />
+shall furnish to the millionaire ireton todd is entertaining in<br />
+still done with expecting any course must have heard your<br />
+came wise men out of the red hair and sir<br />
+paumanok where they had no thoughts of his frankness and<br />
+soviet embassy is popularly regarded as an administrator willingly or<br />
+Total time taken 29.42 sec
+
+
